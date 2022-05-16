@@ -1,0 +1,12 @@
+.products{
+    padding: 2rem;
+    display: flex;
+}
+
+.products__left_side{
+    width: 20%;
+}
+
+.products__right_side{
+    width: 80%;
+}
